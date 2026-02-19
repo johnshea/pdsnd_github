@@ -1,5 +1,6 @@
 ### Date created
-Include the date you created this project and README file.
+20260218 Project created  
+20260218 README.md created  
 
 ### Project Title
 Replace the Project Title
