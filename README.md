@@ -6,7 +6,7 @@
 Post Your Work on GitHub
 
 ### Description
-This project simulates a realistic workflow to update a project using Git.
+This project simulates a realistic workflow to update a project using Git. Multiple branches were created to illustrate documentation changes and refactoring changes.
 
 ### Files used
 .gitignore  
