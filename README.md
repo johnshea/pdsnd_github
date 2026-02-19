@@ -3,14 +3,13 @@
 20260218 README.md created  
 
 ### Project Title
-Replace the Project Title
+Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+This project simulates a realistic workflow to update a project using Git.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+.gitignore  
+bikeshare.py  
+README.md
 
